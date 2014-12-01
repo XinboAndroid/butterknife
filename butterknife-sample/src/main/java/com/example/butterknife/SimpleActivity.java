@@ -38,7 +38,7 @@ public class SimpleActivity extends Activity {
   @InjectViews({ R.id.title, R.id.subtitle, R.id.hello })
   List<View> headerViews;
   
-  //ÎÒÀ´×¢ÊÍÁË
+  //æˆ‘æ¥æ³¨é‡Šäº†
 
   private SimpleAdapter adapter;
 
